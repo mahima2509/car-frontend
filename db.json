@@ -1,0 +1,40 @@
+{
+  "products": [
+    {
+      "pname": "car",
+      "price": 1000000,
+      "date": "2024-09-20",
+      "id": 3
+    },
+    {
+      "pname": "camera",
+      "price": 3000,
+      "date": "2024-09-26",
+      "id": 5
+    },
+    {
+      "pname": "TV",
+      "price": 5600,
+      "date": "2024-09-13",
+      "id": 6
+    },
+    {
+      "pname": "Heater",
+      "price": 1500,
+      "date": "2024-09-05",
+      "id": 7
+    },
+    {
+      "pname": "washing machine",
+      "price": 30000,
+      "date": "2024-08-30",
+      "id": 8
+    },
+    {
+      "pname": "oven",
+      "price": 30000,
+      "date": "2024-09-05",
+      "id": 9
+    }
+  ]
+}
