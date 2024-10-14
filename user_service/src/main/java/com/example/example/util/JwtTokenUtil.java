@@ -1,5 +1,4 @@
-package com.wipro.cabapi.util;
-
+package com.example.example.util;
 
 import io.jsonwebtoken.Jwts;
 import io.jsonwebtoken.SignatureAlgorithm;

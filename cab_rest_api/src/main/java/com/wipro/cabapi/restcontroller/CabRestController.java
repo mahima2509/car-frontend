@@ -21,8 +21,8 @@ import com.wipro.cabapi.dto.CabDriverVO;
 import com.wipro.cabapi.entity.Cab;
 import com.wipro.cabapi.service.ICabService;
 
-import javax.servlet.http.Cookie;
-import javax.servlet.http.HttpServletRequest;
+import jakarta.servlet.http.Cookie;
+import jakarta.servlet.http.HttpServletRequest;
 
 @CrossOrigin("http://localhost:4200")
 @RestController
@@ -36,22 +36,18 @@ public class CabRestController {
     private JwtTokenUtil jwtTokenUtil;
 
     private boolean authenticate(HttpServletRequest request) {
+        // Get the Authorization header from the request
+        String authHeader = request.getHeader("Authorization");
 
-        String token = null;
-        Cookie[] cookies = request.getCookies();
-        if (cookies != null) {
-            for (Cookie cookie : cookies) {
-                if ("token".equals(cookie.getName())) {
-                    token = cookie.getValue();
-                    break;
-                }
-            }
-        }
+        if (authHeader != null && authHeader.startsWith("Bearer ")) {
+            // Extract the token from the header
+            String token = authHeader.substring(7); // Remove "Bearer " prefix
 
-        if (token != null) {
+            // Validate the token
             return jwtTokenUtil.validateToken(token);
         }
-        return false;
+
+        return false; // Token is not present or invalid
     }
 
 
