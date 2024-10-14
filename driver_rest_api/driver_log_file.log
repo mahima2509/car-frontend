@@ -1,0 +1,138 @@
+[32m2024-10-14 01:03:14.023[0;39m [INFO] com.wipro.driverapi.DriverRestApiApplication [main] Starting DriverRestApiApplication using Java 17.0.11 with PID 14100 (C:\Users\VARSHITH GOUD\eclipse-workspace\driver_rest_api\target\classes started by VARSHITH GOUD in C:\Users\VARSHITH GOUD\eclipse-workspace\driver_rest_api)
+[32m2024-10-14 01:03:14.031[0;39m [INFO] com.wipro.driverapi.DriverRestApiApplication [main] No active profile set, falling back to 1 default profile: "default"
+[32m2024-10-14 01:03:14.860[0;39m [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[32m2024-10-14 01:03:14.933[0;39m [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 65 ms. Found 1 JPA repository interface.
+[32m2024-10-14 01:03:15.341[0;39m [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port 8282 (http)
+[32m2024-10-14 01:03:15.354[0;39m [INFO] org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+[32m2024-10-14 01:03:15.354[0;39m [INFO] org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/10.1.28]
+[32m2024-10-14 01:03:15.405[0;39m [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+[32m2024-10-14 01:03:15.405[0;39m [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1316 ms
+[32m2024-10-14 01:03:15.526[0;39m [INFO] org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+[32m2024-10-14 01:03:15.568[0;39m [INFO] org.hibernate.Version [main] HHH000412: Hibernate ORM core version 6.5.2.Final
+[32m2024-10-14 01:03:15.597[0;39m [INFO] org.hibernate.cache.internal.RegionFactoryInitiator [main] HHH000026: Second-level cache disabled
+[32m2024-10-14 01:03:15.846[0;39m [INFO] org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo [main] No LoadTimeWeaver setup: ignoring JPA class transformer
+[32m2024-10-14 01:03:15.870[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+[32m2024-10-14 01:03:16.131[0;39m [INFO] com.zaxxer.hikari.pool.HikariPool [main] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@6b9a1205
+[32m2024-10-14 01:03:16.134[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+[32m2024-10-14 01:03:16.941[0;39m [INFO] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[32m2024-10-14 01:03:16.986[0;39m [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+[32m2024-10-14 01:03:17.226[0;39m [WARN] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[32m2024-10-14 01:03:17.522[0;39m [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port 8282 (http) with context path '/'
+[32m2024-10-14 01:03:17.531[0;39m [INFO] com.wipro.driverapi.DriverRestApiApplication [main] Started DriverRestApiApplication in 3.925 seconds (process running for 4.527)
+[32m2024-10-14 01:06:54.162[0;39m [INFO] org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(7)-127.0.0.1] Application shutdown requested.
+[32m2024-10-14 01:06:54.341[0;39m [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(7)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+[32m2024-10-14 01:06:54.354[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(7)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+[32m2024-10-14 01:06:54.383[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(7)-127.0.0.1] HikariPool-1 - Shutdown completed.
+[32m2024-10-14 01:06:57.946[0;39m [INFO] com.wipro.driverapi.DriverRestApiApplication [main] Starting DriverRestApiApplication using Java 17.0.11 with PID 3972 (C:\Users\VARSHITH GOUD\eclipse-workspace\driver_rest_api\target\classes started by VARSHITH GOUD in C:\Users\VARSHITH GOUD\eclipse-workspace\driver_rest_api)
+[32m2024-10-14 01:06:57.950[0;39m [INFO] com.wipro.driverapi.DriverRestApiApplication [main] No active profile set, falling back to 1 default profile: "default"
+[32m2024-10-14 01:06:59.232[0;39m [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[32m2024-10-14 01:06:59.338[0;39m [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 89 ms. Found 1 JPA repository interface.
+[32m2024-10-14 01:07:00.052[0;39m [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port 8282 (http)
+[32m2024-10-14 01:07:00.069[0;39m [INFO] org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+[32m2024-10-14 01:07:00.070[0;39m [INFO] org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/10.1.28]
+[32m2024-10-14 01:07:00.150[0;39m [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+[32m2024-10-14 01:07:00.151[0;39m [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 2135 ms
+[32m2024-10-14 01:07:00.336[0;39m [INFO] org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+[32m2024-10-14 01:07:00.390[0;39m [INFO] org.hibernate.Version [main] HHH000412: Hibernate ORM core version 6.5.2.Final
+[32m2024-10-14 01:07:00.424[0;39m [INFO] org.hibernate.cache.internal.RegionFactoryInitiator [main] HHH000026: Second-level cache disabled
+[32m2024-10-14 01:07:00.760[0;39m [INFO] org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo [main] No LoadTimeWeaver setup: ignoring JPA class transformer
+[32m2024-10-14 01:07:00.790[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+[32m2024-10-14 01:07:01.100[0;39m [INFO] com.zaxxer.hikari.pool.HikariPool [main] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@4af70b83
+[32m2024-10-14 01:07:01.102[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+[32m2024-10-14 01:07:02.106[0;39m [INFO] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[32m2024-10-14 01:07:02.155[0;39m [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+[32m2024-10-14 01:07:02.451[0;39m [WARN] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[32m2024-10-14 01:07:02.777[0;39m [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port 8282 (http) with context path '/'
+[32m2024-10-14 01:07:02.788[0;39m [INFO] com.wipro.driverapi.DriverRestApiApplication [main] Started DriverRestApiApplication in 5.402 seconds (process running for 6.278)
+[32m2024-10-14 01:20:13.701[0;39m [INFO] org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(18)-127.0.0.1] Application shutdown requested.
+[32m2024-10-14 01:20:14.100[0;39m [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(18)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+[32m2024-10-14 01:20:14.160[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(18)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+[32m2024-10-14 01:20:14.253[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(18)-127.0.0.1] HikariPool-1 - Shutdown completed.
+[32m2024-10-14 01:20:17.819[0;39m [INFO] com.wipro.driverapi.DriverRestApiApplication [main] Starting DriverRestApiApplication using Java 17.0.11 with PID 15412 (C:\Users\VARSHITH GOUD\eclipse-workspace\driver_rest_api\target\classes started by VARSHITH GOUD in C:\Users\VARSHITH GOUD\eclipse-workspace\driver_rest_api)
+[32m2024-10-14 01:20:17.822[0;39m [INFO] com.wipro.driverapi.DriverRestApiApplication [main] No active profile set, falling back to 1 default profile: "default"
+[32m2024-10-14 01:20:18.430[0;39m [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[32m2024-10-14 01:20:18.494[0;39m [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 54 ms. Found 1 JPA repository interface.
+[32m2024-10-14 01:20:18.926[0;39m [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port 8282 (http)
+[32m2024-10-14 01:20:18.937[0;39m [INFO] org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+[32m2024-10-14 01:20:18.937[0;39m [INFO] org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/10.1.28]
+[32m2024-10-14 01:20:18.990[0;39m [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+[32m2024-10-14 01:20:18.990[0;39m [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1121 ms
+[32m2024-10-14 01:20:19.112[0;39m [INFO] org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+[32m2024-10-14 01:20:19.155[0;39m [INFO] org.hibernate.Version [main] HHH000412: Hibernate ORM core version 6.5.2.Final
+[32m2024-10-14 01:20:19.191[0;39m [INFO] org.hibernate.cache.internal.RegionFactoryInitiator [main] HHH000026: Second-level cache disabled
+[32m2024-10-14 01:20:19.461[0;39m [INFO] org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo [main] No LoadTimeWeaver setup: ignoring JPA class transformer
+[32m2024-10-14 01:20:19.485[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+[32m2024-10-14 01:20:19.760[0;39m [INFO] com.zaxxer.hikari.pool.HikariPool [main] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@70c56434
+[32m2024-10-14 01:20:19.762[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+[32m2024-10-14 01:20:20.548[0;39m [INFO] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[32m2024-10-14 01:20:20.597[0;39m [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+[32m2024-10-14 01:20:20.866[0;39m [WARN] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[32m2024-10-14 01:20:21.241[0;39m [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port 8282 (http) with context path '/'
+[32m2024-10-14 01:20:21.251[0;39m [INFO] com.wipro.driverapi.DriverRestApiApplication [main] Started DriverRestApiApplication in 3.835 seconds (process running for 4.636)
+[32m2024-10-14 01:20:29.749[0;39m [INFO] org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(2)-127.0.0.1] Application shutdown requested.
+[32m2024-10-14 01:20:29.840[0;39m [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(2)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+[32m2024-10-14 01:20:29.842[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(2)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+[32m2024-10-14 01:20:29.850[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(2)-127.0.0.1] HikariPool-1 - Shutdown completed.
+[32m2024-10-14 01:20:32.925[0;39m [INFO] com.wipro.driverapi.DriverRestApiApplication [main] Starting DriverRestApiApplication using Java 17.0.11 with PID 17960 (C:\Users\VARSHITH GOUD\eclipse-workspace\driver_rest_api\target\classes started by VARSHITH GOUD in C:\Users\VARSHITH GOUD\eclipse-workspace\driver_rest_api)
+[32m2024-10-14 01:20:32.927[0;39m [INFO] com.wipro.driverapi.DriverRestApiApplication [main] No active profile set, falling back to 1 default profile: "default"
+[32m2024-10-14 01:20:33.877[0;39m [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[32m2024-10-14 01:20:33.996[0;39m [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 107 ms. Found 1 JPA repository interface.
+[32m2024-10-14 01:20:34.790[0;39m [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port 8282 (http)
+[32m2024-10-14 01:20:34.814[0;39m [INFO] org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+[32m2024-10-14 01:20:34.815[0;39m [INFO] org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/10.1.28]
+[32m2024-10-14 01:20:34.923[0;39m [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+[32m2024-10-14 01:20:34.923[0;39m [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 1949 ms
+[32m2024-10-14 01:20:35.168[0;39m [INFO] org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+[32m2024-10-14 01:20:35.265[0;39m [INFO] org.hibernate.Version [main] HHH000412: Hibernate ORM core version 6.5.2.Final
+[32m2024-10-14 01:20:35.321[0;39m [INFO] org.hibernate.cache.internal.RegionFactoryInitiator [main] HHH000026: Second-level cache disabled
+[32m2024-10-14 01:20:36.037[0;39m [INFO] org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo [main] No LoadTimeWeaver setup: ignoring JPA class transformer
+[32m2024-10-14 01:20:36.102[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+[32m2024-10-14 01:20:37.515[0;39m [INFO] com.zaxxer.hikari.pool.HikariPool [main] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@503556cb
+[32m2024-10-14 01:20:37.522[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+[32m2024-10-14 01:20:41.566[0;39m [INFO] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[32m2024-10-14 01:20:41.749[0;39m [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+[32m2024-10-14 01:20:42.859[0;39m [WARN] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[32m2024-10-14 01:20:44.624[0;39m [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port 8282 (http) with context path '/'
+[32m2024-10-14 01:20:44.668[0;39m [INFO] com.wipro.driverapi.DriverRestApiApplication [main] Started DriverRestApiApplication in 12.142 seconds (process running for 12.836)
+[32m2024-10-14 05:16:18.060[0;39m [INFO] org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(239)-127.0.0.1] Application shutdown requested.
+[32m2024-10-14 05:16:18.281[0;39m [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(239)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+[32m2024-10-14 05:16:18.311[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(239)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+[32m2024-10-14 05:16:18.350[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(239)-127.0.0.1] HikariPool-1 - Shutdown completed.
+[32m2024-10-14 09:12:56.467[0;39m [INFO] com.wipro.driverapi.DriverRestApiApplication [main] Starting DriverRestApiApplication using Java 17.0.11 with PID 1256 (C:\Users\VARSHITH GOUD\eclipse-workspace\driver_rest_api\target\classes started by VARSHITH GOUD in C:\Users\VARSHITH GOUD\eclipse-workspace\driver_rest_api)
+[32m2024-10-14 09:12:56.485[0;39m [INFO] com.wipro.driverapi.DriverRestApiApplication [main] No active profile set, falling back to 1 default profile: "default"
+[32m2024-10-14 09:12:59.799[0;39m [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+[32m2024-10-14 09:13:00.287[0;39m [INFO] org.springframework.data.repository.config.RepositoryConfigurationDelegate [main] Finished Spring Data repository scanning in 439 ms. Found 1 JPA repository interface.
+[32m2024-10-14 09:13:03.834[0;39m [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat initialized with port 8282 (http)
+[32m2024-10-14 09:13:03.900[0;39m [INFO] org.apache.catalina.core.StandardService [main] Starting service [Tomcat]
+[32m2024-10-14 09:13:03.903[0;39m [INFO] org.apache.catalina.core.StandardEngine [main] Starting Servlet engine: [Apache Tomcat/10.1.28]
+[32m2024-10-14 09:13:04.308[0;39m [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [main] Initializing Spring embedded WebApplicationContext
+[32m2024-10-14 09:13:04.310[0;39m [INFO] org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext [main] Root WebApplicationContext: initialization completed in 7681 ms
+[32m2024-10-14 09:13:05.016[0;39m [INFO] org.hibernate.jpa.internal.util.LogHelper [main] HHH000204: Processing PersistenceUnitInfo [name: default]
+[32m2024-10-14 09:13:05.407[0;39m [INFO] org.hibernate.Version [main] HHH000412: Hibernate ORM core version 6.5.2.Final
+[32m2024-10-14 09:13:05.704[0;39m [INFO] org.hibernate.cache.internal.RegionFactoryInitiator [main] HHH000026: Second-level cache disabled
+[32m2024-10-14 09:13:07.686[0;39m [INFO] org.springframework.orm.jpa.persistenceunit.SpringPersistenceUnitInfo [main] No LoadTimeWeaver setup: ignoring JPA class transformer
+[32m2024-10-14 09:13:07.881[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Starting...
+[32m2024-10-14 09:13:10.048[0;39m [INFO] com.zaxxer.hikari.pool.HikariPool [main] HikariPool-1 - Added connection com.mysql.cj.jdbc.ConnectionImpl@3f3c5ecd
+[32m2024-10-14 09:13:10.064[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [main] HikariPool-1 - Start completed.
+[32m2024-10-14 09:13:13.775[0;39m [INFO] org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator [main] HHH000489: No JTA platform available (set 'hibernate.transaction.jta.platform' to enable JTA platform integration)
+[32m2024-10-14 09:13:13.996[0;39m [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [main] Initialized JPA EntityManagerFactory for persistence unit 'default'
+[32m2024-10-14 09:13:14.983[0;39m [WARN] org.springframework.boot.autoconfigure.orm.jpa.JpaBaseConfiguration$JpaWebConfiguration [main] spring.jpa.open-in-view is enabled by default. Therefore, database queries may be performed during view rendering. Explicitly configure spring.jpa.open-in-view to disable this warning
+[32m2024-10-14 09:13:16.295[0;39m [INFO] org.springframework.boot.web.embedded.tomcat.TomcatWebServer [main] Tomcat started on port 8282 (http) with context path '/'
+[32m2024-10-14 09:13:16.325[0;39m [INFO] com.wipro.driverapi.DriverRestApiApplication [main] Started DriverRestApiApplication in 23.675 seconds (process running for 27.815)
+[32m2024-10-14 09:21:18.699[0;39m [INFO] org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] [http-nio-8282-exec-1] Initializing Spring DispatcherServlet 'dispatcherServlet'
+[32m2024-10-14 09:21:18.723[0;39m [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8282-exec-1] Initializing Servlet 'dispatcherServlet'
+[32m2024-10-14 09:21:18.795[0;39m [INFO] org.springframework.web.servlet.DispatcherServlet [http-nio-8282-exec-1] Completed initialization in 71 ms
+[32m2024-10-14 09:21:19.044[0;39m [INFO] com.wipro.driverapi.restcontroller.DriverRestController [http-nio-8282-exec-1] I am info
+[32m2024-10-14 09:21:19.044[0;39m [WARN] com.wipro.driverapi.restcontroller.DriverRestController [http-nio-8282-exec-1] I am warning
+[32m2024-10-14 09:21:19.045[0;39m [ERROR] com.wipro.driverapi.restcontroller.DriverRestController [http-nio-8282-exec-1] I am error
+[32m2024-10-14 09:21:19.045[0;39m [INFO] com.wipro.driverapi.service.DriverServiceImp [http-nio-8282-exec-1] Fetching all drivers from service class
+[32m2024-10-14 09:21:19.046[0;39m [WARN] com.wipro.driverapi.service.DriverServiceImp [http-nio-8282-exec-1] Fetching all drivers from service class
+[32m2024-10-14 09:22:02.014[0;39m [INFO] com.wipro.driverapi.restcontroller.DriverRestController [http-nio-8282-exec-4] I am info
+[32m2024-10-14 09:22:02.014[0;39m [WARN] com.wipro.driverapi.restcontroller.DriverRestController [http-nio-8282-exec-4] I am warning
+[32m2024-10-14 09:22:02.014[0;39m [ERROR] com.wipro.driverapi.restcontroller.DriverRestController [http-nio-8282-exec-4] I am error
+[32m2024-10-14 09:22:02.014[0;39m [INFO] com.wipro.driverapi.service.DriverServiceImp [http-nio-8282-exec-4] Fetching all drivers from service class
+[32m2024-10-14 09:22:02.014[0;39m [WARN] com.wipro.driverapi.service.DriverServiceImp [http-nio-8282-exec-4] Fetching all drivers from service class
+[32m2024-10-14 09:29:05.331[0;39m [INFO] org.springframework.boot.admin.SpringApplicationAdminMXBeanRegistrar$SpringApplicationAdmin [RMI TCP Connection(19)-127.0.0.1] Application shutdown requested.
+[32m2024-10-14 09:29:05.532[0;39m [INFO] org.springframework.orm.jpa.LocalContainerEntityManagerFactoryBean [RMI TCP Connection(19)-127.0.0.1] Closing JPA EntityManagerFactory for persistence unit 'default'
+[32m2024-10-14 09:29:05.548[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(19)-127.0.0.1] HikariPool-1 - Shutdown initiated...
+[32m2024-10-14 09:29:05.577[0;39m [INFO] com.zaxxer.hikari.HikariDataSource [RMI TCP Connection(19)-127.0.0.1] HikariPool-1 - Shutdown completed.
